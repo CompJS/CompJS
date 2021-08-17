@@ -1,1 +1,1 @@
-The official CompJS account.
+The official CompJS account & repo.
