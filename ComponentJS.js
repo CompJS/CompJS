@@ -7,3 +7,5 @@ class Form {
         this.ComputedStyle += `${k}: ${otherAttributes[k]}; `
       }
     }
+  }
+}
